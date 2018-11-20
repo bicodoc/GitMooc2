@@ -1,0 +1,39 @@
+# Compiled class file
+*.class
+
+#Build directory
+build/
+
+#Build files
+build*.*
+
+#Project directory
+nbproject/
+
+#test directory
+test/
+
+#lib directory
+lib/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+manifest.mf
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
